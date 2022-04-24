@@ -1,0 +1,23 @@
+{
+  "name": "crypto-blockchain",
+  "version": "1.0.0",
+  "description": "...",
+  "main": "demo_block.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anshugupta673/Crypto-Blockchain.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anshugupta673/Crypto-Blockchain/issues"
+  },
+  "homepage": "https://github.com/anshugupta673/Crypto-Blockchain#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
